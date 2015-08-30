@@ -1,2 +1,2 @@
 __author__ = 'msfz751'
-print "hello world"
+print "run file"
